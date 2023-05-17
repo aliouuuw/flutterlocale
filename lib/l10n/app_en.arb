@@ -1,0 +1,10 @@
+{
+  "displayText": "You have pushed the button this many times:",
+  "@displayText": {
+    "description": "The main text"
+  },
+  "navbarText": "Flutter Locale Switch",
+  "@navbarText": {
+    "description": "The navbar's text"
+  }
+}
